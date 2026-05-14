@@ -284,10 +284,9 @@ footer h2 {
 }
 
 .video-container {
-  position: relative;
   width: 100%;
-  max-width: 900px;   /* limits size on large screens */
-  margin: auto;
+  max-width: 1200px;   /* limits size on large screens */
+  margin: 0 auto;
   aspect-ratio: 16 / 9;
 }
 
